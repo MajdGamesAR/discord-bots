@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Overlay AI</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="activation_required">Activation Required</string>
+    <string name="enter_activation_code">Enter Activation Code</string>
+    <string name="activate">Activate</string>
+    <string name="voice_command_solve">Solve</string>
+    <string name="voice_command_hide">Hide</string>
+    <string name="voice_command_stop">Stop</string>
+    <string name="not_found_in_source">Not found in source</string>
+    <string name="processing">Processing…</string>
+    <string name="answer_found">Answer Found</string>
+    <string name="confidence_score">Confidence: %1$d%%</string>
+    <string name="shake_to_capture">Shake device to capture</string>
+    <string name="accessibility_service_description">This service helps extract text from screen for question analysis</string>
+    <string name="notification_channel_name">Screen Capture Service</string>
+    <string name="notification_channel_desc">Service for capturing and analyzing screen content</string>
+    <string name="service_running">Smart Overlay is running</string>
+    <string name="tap_to_configure">Tap to configure</string>
+    <string name="device_id_format">Device ID: %1$s</string>
+    <string name="activation_success">Activation Successful!</string>
+    <string name="activation_failed">Activation Failed</string>
+    <string name="invalid_code">Invalid activation code</string>
+    <string name="already_activated">Already activated on this device</string>
+    <string name="expired_code">Activation code has expired</string>
+    <string name="voice_not_recognized">Voice not recognized</string>
+    <string name="voice_authenticated">Voice authenticated</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="grant_overlay_permission">Please grant overlay permission in Settings</string>
+    <string name="grant_accessibility_permission">Please enable accessibility service in Settings</string>
+</resources>
